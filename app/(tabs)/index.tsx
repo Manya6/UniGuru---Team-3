@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useRouter } from 'expo-router';
 import { Image, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
@@ -134,6 +135,20 @@ export default function UniGuru() {
       </TouchableOpacity>
 
     </View> 
+=======
+import { Text, View , StyleSheet} from "react-native";
+import { Link } from 'expo-router';
+
+export default function Index() {
+  return (
+    <View
+      style={styles.container}
+    >
+      <Text style={styles.text}>test home screen</Text>
+      <Link href="/accessibility" style={styles.button}>
+        Go to Accessibility screen
+      </Link>
+>>>>>>> 25c435ad50d0d7259196b8ee63b89afef96cf411
     </View>
   );
 }
@@ -141,6 +156,7 @@ export default function UniGuru() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+<<<<<<< HEAD
     backgroundColor: '#ddd',
   },
 
@@ -266,3 +282,20 @@ const styles = StyleSheet.create({
 
 }
 );
+=======
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+
+text: {
+  color: '#000',
+},
+
+button: {
+  fontSize: 20,
+  textDecorationLine: 'underline',
+  color: '#000',
+},
+});
+>>>>>>> 25c435ad50d0d7259196b8ee63b89afef96cf411

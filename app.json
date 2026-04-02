@@ -1,11 +1,20 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "UniGuruApp",
     "slug": "UniGuruApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "uniguruapp",
+=======
+    "name": "UniGuru",
+    "slug": "UniGuru",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "uniguru",
+>>>>>>> 25c435ad50d0d7259196b8ee63b89afef96cf411
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

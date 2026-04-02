@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -49,7 +48,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# UniGuru---Team-3
-Created by Manya, Piper and Kamalika, our app is similar to HertsMobile but modified. We decided to make an app that helps the students and staff recieve (mostly) all the information that is needed regarding the uni life and resources, all in one app.
->>>>>>> 25c435ad50d0d7259196b8ee63b89afef96cf411
